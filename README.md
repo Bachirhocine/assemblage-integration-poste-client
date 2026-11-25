@@ -1,50 +1,42 @@
- Présentation du projet : Assemblage et intégration du poste client dans le réseau local**
+ # 🖥️ Assemblage et intégration d'un poste client en réseau local
 
-Bonjour à tous,
+## 📋 Contexte du projet
+Dans le cadre de ma formation de **Technicien Informatique** (OpenClassrooms), j'ai conçu, assemblé et intégré un poste de travail complet dans le réseau local d'un client, en répondant à ses contraintes techniques, budgétaires et d'accessibilité.
 
-Je suis ravi de vous présenter notre projet d'assemblage et d'intégration du poste client dans le réseau local de notre client. Dans cette présentation de 15 minutes, nous allons explorer en détail les différentes étapes de notre devis, le schéma de la carte mère, le tableau comparatif des antivirus, et enfin, nous conclurons par une démonstration du fonctionnement de la machine sous Windows 10.
+---
 
-1. Présentation du devis :
+## 🛠️ Configuration matérielle retenue (Devis : 3 408 € TTC)
+* **Processeur :** Intel Core i7-12700K (3.6 GHz / 5.0 GHz – 12 cœurs)
+* **Carte mère :** MSI MAG B760 TOMAHAWK WIFI DDR5
+* **Mémoire vive (RAM) :** Textorm 32 Go (2x 16 Go) DDR5 4800 MHz
+* **Stockage :** SSD NVMe Textorm BM40 M.2 PCIe 1 To
+* **Carte graphique :** AMD Radeon Pro W5500 8 Go
+* **Boîtier & Refroidissement :** Aerocool APNX C1 (Blanc) + Watercooling CPU + Lecteur/graveur DVD
+* **Système d'exploitation :** Windows 10 Pro
 
-Dans notre devis, nous avons soigneusement sélectionné les composants suivants pour l'assemblage du poste client :
+---
 
-- Intel Core i7-12700K (3.6 GHz / 5.0 GHz) : Avec ses 8 cœurs et 16 threads, ce processeur offre des performances exceptionnelles pour les tâches multitâches et gourmandes en ressources.
-  
-- Carte Mère MSI MAG B760 TOMAHAWK WIFI DDR5 : Cette carte mère offre une compatibilité étendue avec les dernières technologies et des fonctionnalités de connectivité avancées, assurant une base solide pour notre système.
+## 🛡️ Comparatif des solutions Antivirus
 
-- La RAM Textorm 32 Go (2x 16 Go) DDR5 4800 MHz CL40 : Cette RAM garantit une réactivité optimale du système, permettant de gérer efficacement plusieurs applications simultanément.
+| Antivirus | Prix annuel | Fonctionnalités principales | Compatibilité |
+| :--- | :--- | :--- | :--- |
+| **Bitdefender** | 49,99 € | Protection en temps réel, anti-phishing | Windows, Mac, iOS |
+| **Kaspersky** | 39,99 € | Protection multicouche, VPN intégré | Windows, Mac, iOS |
+| **Norton** | 49,99 € | Protection contre les ransomwares, VPN | Windows, Mac, iOS |
 
-- Stockage principal Textorm BM40 M.2 2280 PCIE NVME 1 TB : Pour un stockage ultrarapide des données, offrant des temps de chargement réduits et une expérience utilisateur fluide.
+---
 
-- Carte Graphique AMD Radeon Pro W5500 8 GO : Idéale pour les applications graphiques intensives et les jeux vidéo, offrant des performances exceptionnelles en termes de rendu et de fluidité.
+## 📸 Aperçu des réalisations techniques
 
-- Boitier Aerocool APNX C1 (Blanc) : Doté d'un design élégant et d'une excellente gestion thermique, ce boîtier assure le bon fonctionnement de tous les composants.
+### Validation du système d'exploitation (Windows 10 Pro)
+![Version de l'OS](Hocine_Bachir_3_VersionOS_022024.png)
 
-Le client a également demandé des éléments supplémentaires, notamment un système de refroidissement liquide pour le processeur et un lecteur/graveur de DVD. Toutes ces exigences ont été prises en compte dans notre devis.
+### Intégration réseau et accès au NAS client
+![Contenu du NAS](Hocine_Bachir_4_ContenuNAS_022024.png)
 
-En ce qui concerne les logiciels, nous recommandons l'utilisation de **Windows 10 Pro, pour répondre aux besoins professionnels du client.
+---
 
-Le total TTC de notre devis, incluant les prestations de montage et d'intégration, s'élève à 3408 €.
-
-2. Présentation du schéma de la carte mère :
-
-[Insérer ici le schéma de la carte mère avec une explication détaillée de chaque composant et de son rôle dans le système.]
-
-3. Tableau comparatif des antivirus :
-
-| Antivirus      | Prix (annuel) | Fonctionnalités principales                 | Compatibilité      |
-|----------------|---------------|--------------------------------------------|--------------------|
-| Bitdefender    | 49,99€        | Protection en temps réel, anti-phishing    | Windows, Mac, iOS |
-| Kaspersky      | 39,99€        | Protection multicouche, VPN intégré        | Windows, Mac, iOS |
-| Norton         | 49,99€        | Protection contre les ransomwares, VPN     | Windows, Mac, iOS |
-
-[Explication des caractéristiques de chaque antivirus et recommandation en fonction des besoins spécifiques du client.]
-
-4. Démonstration du fonctionnement de la machine Windows 10 :
-
-Nous allons maintenant passer à la démonstration du fonctionnement de la machine. Nous allons accéder aux données hébergées sur le NAS du client et vérifier le bon lancement du logiciel d'accessibilité demandé.
-
-[Effectuer la démonstration en direct en mettant en avant les points clés mentionnés.]
-
-En conclusion, notre projet vise à fournir à notre client un poste de travail performant, sécurisé et parfaitement intégré à son réseau local. Nous sommes convaincus que notre solution répond à ses besoins et exigences. Merci de votre attention.
-Ceci conclut notre présentation. Je suis désormais ouvert à toutes vos questions.
+## 📂 Livrables complets du projet
+* 📄 [Consulter le devis matériel complet (PDF)](Hocine_Bachir_1_Devis_022024.pdf)
+* 🔌 [Consulter le schéma de la carte mère (PDF)](Hocine_Bachir_2_Schema_022024.pdf)
+* 🛡️ [Consulter l'étude comparative des antivirus (PDF)](Hocine_Bachir_5_Antivirus_022024.pdf)
